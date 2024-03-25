@@ -1,0 +1,19 @@
+ @charset "UTF-9"
+
+body
+{
+   text-allign: center;
+   background:  linear-gradient(0deg, rgb(190, 114, 241), rgb(225, 187, 290));
+  color: black;
+  font-syze: 12pt;
+  font-family: Arial;
+
+
+}
+
+
+a
+ {
+   text_decoration:none;
+
+ }  
